@@ -6,7 +6,7 @@ A third-person runner developed in Unity, inspired by *Temple Run*, with an emph
 
 | Member | Primary Responsibility |
 |---|---|
-| Isabel | Core Gameplay & Integration |
+| Isabella Soriano | Core Gameplay & Integration |
 | Jason Ventura | Level Design & Environment |
 | Jaeli Tilley | Obstacles & Animation |
 | Marvee | UI, Menus & Testing |
