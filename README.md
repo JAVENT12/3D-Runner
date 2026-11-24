@@ -64,11 +64,11 @@ The game focuses on a continuous gameplay loop, randomized hallways, increasing 
 |TileExit.cs  |  Triggers additional hallway generation.  |
 |TurnTrigger.cs  |  Detects approaching turns.  |
 |ObstacleSpawner.cs  |  Randomly generates police and lasers.|
-|Obstacle.cs  |  |Detects player collisions and triggers game over.  |
+|Obstacle.cs  |  Detects player collisions and triggers game over.  |
 |PoliceMovement.cs  |  Controls approaching police and laser detection. |
-|PolicePatrol.cs  |  |Moves police between lanes. |
+|PolicePatrol.cs  |  Moves police between lanes. |
 |RobberAnimation.cs  |  Animates the robber's running motion. |
-|PoliceAnimation.cs  |  |Animates police movement.  |
+|PoliceAnimation.cs  |  Animates police movement.  |
 |CashSpawner.cs  |  Randomly generates cash bundles.  |
 |CashCollectible.cs  |  Animates cash and awards points on collection. |
 |GameManager.cs  |  Manages scoring, game-over state, best score and restarting. |
